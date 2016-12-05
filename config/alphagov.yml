@@ -56,7 +56,6 @@ custom:
     - deborahchua
     - emmabeynon
     - issyl0
-    - jennyd
     - sihugh
     - whoojemaflip
 
@@ -218,3 +217,15 @@ templateconsolidation:
 
   channel:
     "#templateconsolidation"
+
+email:
+  members:
+    - jennyd
+
+  channel:
+    "#email"
+
+  exclude_titles:
+    - "[DO NOT MERGE]"
+    - DO NOT MERGE
+    - WIP
