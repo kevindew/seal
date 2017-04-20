@@ -203,6 +203,23 @@ servicemanual:
 
   quotes:
     - ":wave:"
+    
+holdgovtoacc:
+  members:
+    - kevindew
+    - thomasleese
+    - emmabeynon
+    - steventux
+    - leenagupte
+    - bevanloon
+
+  channel:
+    "#support-holdgovtoacc"
+
+  exclude_titles:
+    - "[DO NOT MERGE]"
+    - WIP
+
 
 templateconsolidation:
   members:
